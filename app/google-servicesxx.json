@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457877357507",
+    "firebase_url": "https://feedthekitty-c442c.firebaseio.com",
+    "project_id": "feedthekitty-c442c",
+    "storage_bucket": "feedthekitty-c442c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457877357507:android:7dc066b9ea979425",
+        "android_client_info": {
+          "package_name": "com.example.cory.feedthekitty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457877357507-d6q1htm1p06v176sqh656jhijrv8fdkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cory.feedthekitty",
+            "certificate_hash": "97f143eb522dd20e462fe00bc84b9a510680364b"
+          }
+        },
+        {
+          "client_id": "457877357507-anj7f7mbr2rh3j65m0tgt6o8r1o6a7e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBtJT9R-Zv2meUbZBPqNrVtyviVyRMZk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457877357507-anj7f7mbr2rh3j65m0tgt6o8r1o6a7e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

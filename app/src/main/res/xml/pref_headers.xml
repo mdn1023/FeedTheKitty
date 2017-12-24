@@ -1,0 +1,16 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="com.example.cory.feedthekitty.SettingsActivity$UserPreferenceFragment"
+        android:icon="@drawable/ic_user"
+        android:title="@string/pref_header_user" />
+
+
+    <header
+        android:fragment="com.example.cory.feedthekitty.SettingsActivity$CreditCardPreferenceFragment"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/pref_header_credit_card"
+        />
+</preference-headers>
